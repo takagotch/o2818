@@ -1,4 +1,4 @@
-### Modern Sign In Page with Split Screen Format | snippets12
+### [Modern Sign In Page with Split Screen Format | snippets12](https://takagotch.github.io/snippets12/)
 ---
 
 
